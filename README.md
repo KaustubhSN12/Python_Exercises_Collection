@@ -65,9 +65,9 @@ The purpose of this repository is to create a **hands-on learning environment** 
 ---
 
 ## 🔗 Explore My Other Repositories
-- 📊 [R Programming Practicals](https://github.com/KaustubhSN12/R-Practice)  
+- 📊 [R Programming Practicals](https://github.com/KaustubhSN12/HandsOn-R-Programming-Lab)  
 - 📈 [Power BI – Salary, Gender & Family Trends](https://github.com/KaustubhSN12/Power-BI_salary-gender-family-trends)  
-- 🖥️ [Software Engineering Basics](https://github.com/KaustubhSN12/Software-Engineering-Basics)  
+- 🖥️ [Software Engineering Basics](https://github.com/KaustubhSN12/Software-Engineering_Basics)  
 
 ---
 
